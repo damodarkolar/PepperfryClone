@@ -3,6 +3,10 @@
 Clone of <a href="https://www.pepperfry.com/">pepperfry.com</a> which is an Indian online marketplace for furniture and home décor.
 
 <img src="https://github.com/Jasmine-Shaikh/PepperfryClone/blob/main/pepperfry.PNG"/>
+<img src="https://github.com/damodarkolar/PepperfryClone/blob/main/pepperfry-categroies.png"/>
+<img src="https://github.com/damodarkolar/PepperfryClone/blob/main/pepperfry-items.png"/>
+<img src="https://github.com/damodarkolar/PepperfryClone/blob/main/pepperfry-login.png"/>
+<img src="https://github.com/damodarkolar/PepperfryClone/blob/main/pepperfry-products.png"/>
 
 ## Installation 
 
