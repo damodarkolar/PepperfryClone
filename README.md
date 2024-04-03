@@ -1,6 +1,6 @@
 # PepperfryClone
 
-Clone of <a href="https://www.pepperfry.com/">pepperfry.com</a> which is an Indian online marketplace for furniture and home décor.
+Clone of <a href="https://www.pepperfry.com/">pepperfry.com</a> An Indian online marketplace for furniture and home décor, providing a diverse range of products to elevate every space. Offering a seamless shopping experience and curated collections to cater to diverse tastes and styles.
 
 <img src="https://github.com/Jasmine-Shaikh/PepperfryClone/blob/main/pepperfry.PNG"/>
 <img src="https://github.com/damodarkolar/PepperfryClone/blob/main/pepperfry-categroies.png"/>
